@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oiyaucushu.firstoy.cc/sitemap.xml
